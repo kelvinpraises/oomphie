@@ -1,5 +1,5 @@
-# oomphie
-Oomphie is a puzzle game to relieve stress hosted on the [ethswam gateway](https://bah5acgza2yvxef25o4rbqq2mlscvcxopmj7dp26b52wsvffs4gkono7rki5a.bzz.link/#/) you can watch a demo video on [YouTube](https://youtu.be/B5ziofNpY10)
+# Oomphie!
+Oomphie is a puzzle game to relieve stress hosted on the [ethswam gateway](https://bah5acgza2yvxef25o4rbqq2mlscvcxopmj7dp26b52wsvffs4gkono7rki5a.bzz.link/#/) you can watch the demo video on [YouTube](https://youtu.be/B5ziofNpY10)
 
 
 upcoming features:
